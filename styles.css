@@ -5,6 +5,13 @@ text-decoration:none;
 li{
  list-style:none; 
 }
- .full{
+body{
 	background:#cccccc;
+}
+.player_one{
+	background:rgb(255, 255, 255);
+}
+.player_two{
+background:rgb(255, 255, 255);
+	 
 }
